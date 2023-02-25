@@ -267,14 +267,12 @@ Our codebase is built based on [RTFM](https://github.com/tianyu0207/RTFM). We re
 ## <a name="10"></a> Citation
 We hope the codebase is beneficial to you. If this repo works positively for your research, please consider citing our paper. Thank you for your time and consideration.
 ```
-@inproceedings{WuHCFL22,
-  author    = {Jhih-Ciang Wu and
-               He-Yen Hsieh and
-               Ding-Jie Chen and
-               Chiou-Shann Fuh and
-               Tyng-Luh Liu},
-  title     = {Self-Supervised Sparse Representation for Video Anomaly Detection},
-  booktitle = {ECCV},
-  year      = {2022},
+@inproceedings{wu2022self,
+  title={Self-supervised Sparse Representation for Video Anomaly Detection},
+  author={Wu, Jhih-Ciang and Hsieh, He-Yen and Chen, Ding-Jie and Fuh, Chiou-Shann and Liu, Tyng-Luh},
+  booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XIII},
+  pages={729--745},
+  year={2022},
+  organization={Springer}
 }
 ```
